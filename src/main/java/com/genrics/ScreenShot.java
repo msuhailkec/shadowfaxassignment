@@ -18,7 +18,7 @@ public class ScreenShot {
 	}
 
 	public void captureScreenShot(String fileName) {
-		String path = "/target/Screenshots/";
+		String path = "/test-output/Screenshot/";
 
 		try {
 			TakesScreenshot takeScreenShot = (TakesScreenshot) driver;

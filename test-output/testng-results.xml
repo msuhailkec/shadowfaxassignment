@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30725" started-at="2020-12-14T09:39:31Z" finished-at="2020-12-14T09:40:02Z">
+  <suite name="Default suite" duration-ms="41887" started-at="2020-12-14T10:06:19Z" finished-at="2020-12-14T10:07:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30725" started-at="2020-12-14T09:39:31Z" finished-at="2020-12-14T09:40:02Z">
+    <test name="Default test" duration-ms="41887" started-at="2020-12-14T10:06:19Z" finished-at="2020-12-14T10:07:00Z">
       <class name="com.test.PurchaseFlowTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc]" name="setUp" is-config="true" duration-ms="3551" started-at="2020-12-14T15:09:31Z" finished-at="2020-12-14T15:09:34Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.PurchaseFlowTest@7c8d5312]" name="setUp" is-config="true" duration-ms="3893" started-at="2020-12-14T15:36:19Z" finished-at="2020-12-14T15:36:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc]" name="setUp" is-config="true" duration-ms="1" started-at="2020-12-14T15:09:34Z" finished-at="2020-12-14T15:09:34Z">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.test.PurchaseFlowTest@7c8d5312]" name="setUp" is-config="true" duration-ms="1" started-at="2020-12-14T15:36:22Z" finished-at="2020-12-14T15:36:22Z">
           <params>
             <param index="0">
               <value>
@@ -22,22 +22,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc]" name="validLoginTest" duration-ms="25922" started-at="2020-12-14T15:09:34Z" finished-at="2020-12-14T15:10:00Z">
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:com.test.PurchaseFlowTest@7c8d5312]" name="validLoginTest" duration-ms="36710" started-at="2020-12-14T15:36:22Z" finished-at="2020-12-14T15:36:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginTest -->
-        <test-method status="PASS" signature="screenShot(org.testng.ITestResult)[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc]" name="screenShot" is-config="true" duration-ms="1082" started-at="2020-12-14T15:10:00Z" finished-at="2020-12-14T15:10:01Z">
+        <test-method status="PASS" signature="screenShot(org.testng.ITestResult)[pri:0, instance:com.test.PurchaseFlowTest@7c8d5312]" name="screenShot" is-config="true" duration-ms="1114" started-at="2020-12-14T15:36:59Z" finished-at="2020-12-14T15:37:00Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=validLoginTest status=SUCCESS method=PurchaseFlowTest.validLoginTest()[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc] output={null}]]]>
+                <![CDATA[[TestResult name=validLoginTest status=SUCCESS method=PurchaseFlowTest.validLoginTest()[pri:0, instance:com.test.PurchaseFlowTest@7c8d5312] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- screenShot -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc]" name="teardown" is-config="true" duration-ms="159" started-at="2020-12-14T15:10:01Z" finished-at="2020-12-14T15:10:02Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.PurchaseFlowTest@7c8d5312]" name="teardown" is-config="true" duration-ms="146" started-at="2020-12-14T15:37:00Z" finished-at="2020-12-14T15:37:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

@@ -5,7 +5,7 @@
     <classes>
       <class name="com.test.PurchaseFlowTest">
         <methods>
-          <include name="validLoginTest"/>
+          <include name="verifyPurchaseFLow"/>
           <include name="setUp"/>
           <include name="setUp"/>
           <include name="screenShot"/>
