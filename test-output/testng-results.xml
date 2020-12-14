@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30725" started-at="2020-12-14T09:39:31Z" finished-at="2020-12-14T09:40:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30725" started-at="2020-12-14T09:39:31Z" finished-at="2020-12-14T09:40:02Z">
+      <class name="com.test.PurchaseFlowTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc]" name="setUp" is-config="true" duration-ms="3551" started-at="2020-12-14T15:09:31Z" finished-at="2020-12-14T15:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc]" name="setUp" is-config="true" duration-ms="1" started-at="2020-12-14T15:09:34Z" finished-at="2020-12-14T15:09:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.PurchaseFlowTest.validLoginTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc]" name="validLoginTest" duration-ms="25922" started-at="2020-12-14T15:09:34Z" finished-at="2020-12-14T15:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method status="PASS" signature="screenShot(org.testng.ITestResult)[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc]" name="screenShot" is-config="true" duration-ms="1082" started-at="2020-12-14T15:10:00Z" finished-at="2020-12-14T15:10:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLoginTest status=SUCCESS method=PurchaseFlowTest.validLoginTest()[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShot -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.PurchaseFlowTest@6767c1fc]" name="teardown" is-config="true" duration-ms="159" started-at="2020-12-14T15:10:01Z" finished-at="2020-12-14T15:10:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.test.PurchaseFlowTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
